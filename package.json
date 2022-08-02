@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-aontiveros",
+  "version": "1.0.1",
+  "description": "random messages",
+  "main": "src/index.js",
+  "author": "Andres Ontiveros",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascsript",
+    "node",
+    "npm"
+  ],
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aontiveros24/npm-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aontiveros24/npm-random-messages/issues"
+  },
+  "homepage": "https://github.com/aontiveros24/npm-random-messages#readme"
+}
